@@ -23,6 +23,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Logistic Regression: accuracy 0.8045, ROC-AUC 0.8505
   - Random Forest: accuracy 0.8156, ROC-AUC 0.8267
 - Both models beat the 0.6145 majority-class baseline.
+- Video walkthrough: https://youtu.be/OCHYE5o2AhA
 
 ### 2. SEMMA — Student performance (`SEMMA/`)
 
@@ -35,6 +36,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Logistic Regression: accuracy 0.873, ROC-AUC 0.948
   - Random Forest: accuracy 0.873, ROC-AUC 0.936
   - Gradient Boosting: accuracy 0.886, ROC-AUC 0.940
+- Video walkthrough: https://youtu.be/EGoO6iJ_ZAQ
 
 ### 3. KDD — Pima Indians diabetes prediction (`KDD/`)
 
@@ -47,6 +49,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Logistic Regression: accuracy 0.708, ROC-AUC 0.813
   - Random Forest: accuracy 0.734, ROC-AUC 0.817
 - Top drivers (Random Forest): Glucose, BMI, DiabetesPedigreeFunction.
+- Video walkthrough: https://youtu.be/iqpkoNZ62ro
 
 ## How to run
 
