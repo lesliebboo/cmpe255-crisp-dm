@@ -24,6 +24,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Random Forest: accuracy 0.8156, ROC-AUC 0.8267
 - Both models beat the 0.6145 majority-class baseline.
 - Video walkthrough: https://youtu.be/OCHYE5o2AhA
+- Medium article: https://medium.com/@fuweihao101/predicting-titanic-survival-step-by-step-a-crispdm-walkthrough-880324138795
 
 ### 2. SEMMA — Student performance (`SEMMA/`)
 
@@ -37,6 +38,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Random Forest: accuracy 0.873, ROC-AUC 0.936
   - Gradient Boosting: accuracy 0.886, ROC-AUC 0.940
 - Video walkthrough: https://youtu.be/EGoO6iJ_ZAQ
+- Medium article: https://medium.com/@fuweihao101/predicting-student-performance-with-semma-can-we-flag-at-risk-students-before-the-final-exam-57c54ec509e7
 
 ### 3. KDD — Pima Indians diabetes prediction (`KDD/`)
 
@@ -50,6 +52,7 @@ each in its own directory, each as a fully executed Colab notebook
   - Random Forest: accuracy 0.734, ROC-AUC 0.817
 - Top drivers (Random Forest): Glucose, BMI, DiabetesPedigreeFunction.
 - Video walkthrough: https://youtu.be/iqpkoNZ62ro
+- Medium article: https://medium.com/@fuweihao101/finding-diabetes-risk-in-data-a-full-kdd-walkthrough-db0733bb253b
 
 ## How to run
 
